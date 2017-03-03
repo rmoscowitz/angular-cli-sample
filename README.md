@@ -10,6 +10,7 @@ cd angular-cli-sample
 // ng serve
 // ng test
 // ng e2e
+// http://www.backalleycoder.com/2016/05/13/sghpa-the-single-page-app-hack-for-github-pages
 // (create repo in github)
 git remote add origin https://github.com/rmoscowitz/angular-cli-sample.git
 git push origin master
