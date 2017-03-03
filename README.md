@@ -1,6 +1,6 @@
 # AngularCliSample
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.1 on March 3, 2017.
 
 ```
 // (upgrade node to v. 6.10.0)
@@ -17,5 +17,3 @@ npm i -g angular-cli-ghpages
 ng build --prod --base-href="https://rmoscowitz.github.io/angular-cli-sample/"
 ngh
 ```
-
-`ng serve` is at localhost:4200
