@@ -14,6 +14,6 @@ cd angular-cli-sample
 git remote add origin https://github.com/rmoscowitz/angular-cli-sample.git
 git push origin master
 npm i -g angular-cli-ghpages
-ng build --prod
+ng build --prod --base-href="https://rmoscowitz.github.io/angular-cli-sample/"
 ngh
 ```
